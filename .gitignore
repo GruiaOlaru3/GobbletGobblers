@@ -1,0 +1,60 @@
+# ---- Visual Studio / MSBuild build output ----
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache / user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.opendb
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+
+# Build / compiler intermediates
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib.recipe
+*.exe.recipe
+*.tlog
+*.log
+*.lastbuildstate
+*.CppClean.log
+*.FileListAbsolute.txt
+*.ipch
+ipch/
+*.aps
+*.ncb
+*.cache
+
+# Build outputs
+*.exe
+*.dll
+*.pdb
+
+# Windows shell junk
+*.lnk
+Thumbs.db
+desktop.ini
+
+# ---- Project exceptions ----
+# Keep the SFML runtime DLLs that live next to the project source so the
+# game can be launched without copying them in manually.
+!Gobblet Gobblers/Gobllet/*.dll
+# Keep the bundled SFML headers and import libraries (vendored dependency).
+!Gobblet Gobblers/External/**
+
+# Runtime-generated game data (profiles, saved game, leaderboard)
+StareJoc
+Profile
+GruiaSiPrietenii
