@@ -1,0 +1,2 @@
+﻿  main.cpp
+E:\Facultate\Gobblet Gobblers\Gobblet Gobblers\Gobblet\main.cpp(14,10): fatal error C1083: Cannot open include file: 'SFML/Window.hpp': No such file or directory

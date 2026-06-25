@@ -1,0 +1,296 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Gobllet.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(324,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(324,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(326,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(326,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(328,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(328,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(330,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(330,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(614,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(689,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(693,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(699,19): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(699,16): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(700,40): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(721,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(803,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(810,19): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(810,16): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(811,39): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(816,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(820,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(828,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(879,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(883,18): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(883,15): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(885,42): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(885,22): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(930,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(934,18): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(934,15): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(936,42): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(936,22): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(939,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(943,18): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(943,15): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(945,43): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(945,23): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(952,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(952,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(958,43): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(958,35): warning C4309: 'argument': truncation of constant value
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(958,30): warning C4309: 'argument': truncation of constant value
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(958,25): warning C4309: 'argument': truncation of constant value
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(976,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(976,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(988,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(988,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(990,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(995,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(995,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1003,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1008,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1008,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1040,62): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1042,70): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1044,73): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1046,73): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1049,54): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1050,54): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1053,200): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1076,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1078,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1113,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1131,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1140,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1159,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1232,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1325,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1325,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1327,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1327,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1336,37): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1341,19): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1341,16): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1342,56): warning C4244: 'argument': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1342,36): warning C4244: 'argument': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1348,19): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1348,16): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1349,56): warning C4244: 'argument': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1349,36): warning C4244: 'argument': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1605,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1605,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1616,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1616,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1627,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1627,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1652,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1652,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Gobllet\main.cpp(1709,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Gobllet.vcxproj -> C:\Users\Gruia\Documents\GitHub\Gobblet_Gobblers\Gobblet Gobblers\Debug\Gobblet.exe
